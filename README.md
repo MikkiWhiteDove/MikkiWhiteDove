@@ -3,6 +3,8 @@
 ### How to reach me: [Telegram](https://telegram.me/mikki_white)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkiWhiteDove&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkiWHiteDove&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![sreyne's 42 stats](https://badge42.vercel.app/api/v2/cl84npbhu00160gkxneu8jq8y/stats?cursusId=21&coalitionId=39)](https://github.com/JaeSeoKim/badge42)
 <!--
 **MikkiWhiteDove/MikkiWhiteDove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
