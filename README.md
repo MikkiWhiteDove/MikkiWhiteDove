@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## I write code in Swift(UIKit/SwiftUI)
 ### How to reach me: [Telegram](https://telegram.me/mikki_white)
+### I try to fight every day at war with the big(O) <a href="https://www.codewars.com/users/MikkiWhiteDove">
+  <img src="https://www.codewars.com/users/MikkiWhiteDove/badges/micro"><a/>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkiWhiteDove&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkiWHiteDove&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
