@@ -8,8 +8,8 @@
       <h3>I try to fight every day at war with the big(O)</h3>
    </div>
    <div style="text-align: center; width: 50%">
-      <a href="https://www.codewars.com/users/MikkiWhiteDove"><img width="100%" src="https://www.codewars.com/users/MikkiWhiteDove/badges/large"><a/>
-      <img width="100%" src="https://leetcode-stats-six.vercel.app/api?username=MikkiWhiteDove">
+      <a href="https://www.codewars.com/users/MikkiWhiteDove"><img width="50%" src="https://www.codewars.com/users/MikkiWhiteDove/badges/large"><a/>
+      <img width="50%" src="https://leetcode-stats-six.vercel.app/api?username=MikkiWhiteDove">
 </div>
 </div>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkiWhiteDove&show_icons=true) -->
