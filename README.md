@@ -4,7 +4,7 @@
 ### add to [Linkedin](https://www.linkedin.com/in/mikkiwhite)
 ### I try to fight every day at war with the big(O)
 <div style="display: flex; justify-content: space-between; width: 100%">
-   <a width="49%" src="https://leetcode-stats-six.vercel.app/api?username=MikkiWhiteDove"><a/>
+   <a src="https://leetcode-stats-six.vercel.app/api?username=MikkiWhiteDove"><a/>
    <a href="https://www.codewars.com/users/MikkiWhiteDove"><img src="https://www.codewars.com/users/MikkiWhiteDove/badges/large"><a/>
 </div>
 ###  
