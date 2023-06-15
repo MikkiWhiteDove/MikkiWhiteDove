@@ -2,11 +2,15 @@
 ## I write code in Swift(UIKit/SwiftUI)
 ### How to reach me: [Telegram](https://telegram.me/mikki_white)
 ### add to [Linkedin](https://www.linkedin.com/in/mikkiwhite)
-### I try to fight every day at war with the big(O)
+### 
 <div style="text-align: center; width: 100%">
-   <a href="https://www.codewars.com/users/MikkiWhiteDove"><img width="50%" src="https://www.codewars.com/users/MikkiWhiteDove/badges/large"><a/>
-   <img width="50%" src="https://leetcode-stats-six.vercel.app/api?username=MikkiWhiteDove">
-   
+   <div style="text-align: center; width: 49%">
+      <h3>I try to fight every day at war with the big(O)</h3>
+   </div>
+   <div style="text-align: center; width: 50%">
+      <a href="https://www.codewars.com/users/MikkiWhiteDove"><img width="100%" src="https://www.codewars.com/users/MikkiWhiteDove/badges/large"><a/>
+      <img width="100%" src="https://leetcode-stats-six.vercel.app/api?username=MikkiWhiteDove">
+</div>
 </div>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkiWhiteDove&show_icons=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkiWHiteDove&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
