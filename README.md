@@ -5,7 +5,7 @@
 ### I try to fight every day at war with the big(O)
 <div style="display: flex; justify-content: space-between; width: 100%">
    <img width="49%" src="https://leetcode-stats-six.vercel.app/api?username=MikkiWhiteDove">
-   <a href="https://www.codewars.com/users/MikkiWhiteDove"><img src="https://www.codewars.com/users/MikkiWhiteDove/badges/large"><a/>
+   <a href="https://www.codewars.com/users/MikkiWhiteDove"><img width="49%" src="https://www.codewars.com/users/MikkiWhiteDove/badges/large"><a/>
 </div>
 ###  
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkiWhiteDove&show_icons=true) -->
