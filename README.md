@@ -14,7 +14,7 @@
 <!-- [![sreyne's 42 stats] (https://badge42.vercel.app/api/v2/cl84npbhu00160gkxneu8jq8y/stats?cursusId=21&coalitionId=39)](https://github.com/JaeSeoKim/badge42) -->
 <div style="display: flex; justify-content: space-between; width: 100%">
    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkiWHiteDove&layout=compact&langs_count=5">
-  <img width="49%" src="https://badge42.vercel.app/api/v2/cl84npbhu00160gkxneu8jq8y/stats?cursusId=21&coalitionId=39">
+  <img width="49%" align="top" src="https://badge42.vercel.app/api/v2/cl84npbhu00160gkxneu8jq8y/stats?cursusId=21&coalitionId=39">
 </div>
   
 <!-- <div style="display: flex; justify-content: space-between; width: 100%">
