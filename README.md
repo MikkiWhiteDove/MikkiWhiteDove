@@ -4,8 +4,8 @@
 ### add to [Linkedin](https://www.linkedin.com/in/mikkiwhite)
 ### I try to fight every day at war with the big(O)
 <div style="display: flex; justify-content: space-between; width: 100%">
-   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MikkiWhiteDove)](https://github.com/madushadhanushka/github-readme)
-  <a href="https://www.codewars.com/users/MikkiWhiteDove"><img src="https://www.codewars.com/users/MikkiWhiteDove/badges/large"><a/>
+   <a width="49%" src="https://leetcode-stats-six.vercel.app/api?username=MikkiWhiteDove"><a/>
+   <a href="https://www.codewars.com/users/MikkiWhiteDove"><img src="https://www.codewars.com/users/MikkiWhiteDove/badges/large"><a/>
 </div>
 ###  
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkiWhiteDove&show_icons=true) -->
