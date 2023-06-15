@@ -2,7 +2,7 @@
 ## I write code in Swift(UIKit/SwiftUI)
 ### How to reach me: [Telegram](https://telegram.me/mikki_white)
 ### add to [Linkedin](https://www.linkedin.com/in/mikkiwhite)
-h3=. I try to fight every day at war with the big(O)
+h2()=. I try to fight every day at war with the big(O)
 <div style="text-align: center; width: 100%">
       <a href="https://www.codewars.com/users/MikkiWhiteDove"><img width="49%" src="https://www.codewars.com/users/MikkiWhiteDove/badges/large"><a/>
       <img width="49%" src="https://leetcode-stats-six.vercel.app/api?username=MikkiWhiteDove">
