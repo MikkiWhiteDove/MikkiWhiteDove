@@ -3,7 +3,6 @@
 ### How to reach me: [Telegram](https://telegram.me/mikki_white)
 ### add to [Linkedin](https://www.linkedin.com/in/mikkiwhite)
 ### I try to fight every day at war with the big(O)
-### LeetCode CodeWars:
 ### [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MikkiWhiteDove)](https://github.com/madushadhanushka/github-readme)  <a href="https://www.codewars.com/users/MikkiWhiteDove"><img src="https://www.codewars.com/users/MikkiWhiteDove/badges/large"><a/>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikkiWhiteDove&show_icons=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikkiWHiteDove&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
